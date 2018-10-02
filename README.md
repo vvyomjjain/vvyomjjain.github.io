@@ -1,7 +1,7 @@
 # Welcome to the portfolio website
 ---
 
-This repository is my attempt to make my own portfolio website which will have all my contacts and detailed description of my projects. You can check out the website [here](vvyomjjain.github.io).
+This repository is my attempt to make my own portfolio website which will have all my contacts and detailed description of my projects. You can check out the website [here](https://vvyomjjain.github.io).
 
 ## Current features
 Currently the live version of the website has the following features:
@@ -20,9 +20,9 @@ I actually don't know how to implement the 'contact me' functionality as I see o
 
 ---
 Credits:
-- Contributors: [Vyom Jain](github.com/vvyomjjain)
+- Contributors: [Vyom Jain](https://github.com/vvyomjjain)
 - Demo Images: [Mohit Routela](https://github.com/mohitroutela)
-- Theme: [HTML5UP](HTML5up.com)
-- Icons: [Font Awesome](fontawesome.io)
-- Other: [jQuery](jquery.com)
-- Responsive Tools: github.com/ajlkn/responsive-tools
+- Theme: [HTML5UP](https://HTML5up.com)
+- Icons: [Font Awesome](https://fontawesome.io)
+- Other: [jQuery](https://jquery.com)
+- Responsive Tools: https://github.com/ajlkn/responsive-tools
