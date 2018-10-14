@@ -33,6 +33,18 @@ body {
 	line-height: 1;
 }
 
+td{
+	border: solid red 1px;
+}
+
+.contri{
+	width: 85%;
+}
+
+.pdf{
+	min-width: 40px;
+}
+
 ol, ul {
 	list-style: none;
 }
