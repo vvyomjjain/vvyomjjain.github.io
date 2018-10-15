@@ -1,5 +1,4 @@
 # Welcome to the portfolio website
----
 
 This repository is my attempt to make my own portfolio website which will have all my contacts and detailed description of my projects. You can check out the website [here](https://vvyomjjain.github.io).
 
